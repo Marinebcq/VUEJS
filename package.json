@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ofetch": "^1.1.1",
+    "ohmyfetch": "^0.4.21"
+  }
+}
